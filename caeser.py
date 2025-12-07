@@ -27,7 +27,7 @@ def decrypt(cipher_text, shift):
 
 
 
-plaintext = "hello world"
+plaintext = "hello"
 shift_value = 3
 
 cipher = encrypt(plaintext, shift_value)
